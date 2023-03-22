@@ -1,7 +1,6 @@
 # Belly-Button-Challenge
-![bacteria](http://url/to/img.png](https://www.michaelrobertdavis.com/images/bellybutton/bacteriacells3.jpg)
 
-![surf](https://cdn.hovia.com/app/uploads/retro-surf-mural-wallpaper-Plain.jpg)
+![bacteria](https://www.michaelrobertdavis.com/images/bellybutton/bacteriacells3.jpg)
 
 This is an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site https://msben14.github.io/belly-button-challenge/, which catalogues the microbes that colonize human navels.
 
